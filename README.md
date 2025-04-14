@@ -1,7 +1,7 @@
 # 09-Load-Data-into-Data-Warehouse.md
 In this exercise, you're going to load data into a dedicated SQL Pool.
 
-# Load Data into a Relational Data Warehouse - Lab Exercise 🚀
+# Load Data into a Relational Data Warehouse  🚀
 
 ## 📌 Overview  
 This lab guides you through loading data into a dedicated SQL pool in Azure Synapse Analytics. You'll practice:
